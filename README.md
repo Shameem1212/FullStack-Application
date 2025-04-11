@@ -26,7 +26,9 @@ Tailwind CSS (or CSS Modules)
 
 react-beautiful-dnd
 
-Backend
+Backend 
+
+Start: npm run start:dev
 Node.js
 
 Express.js
